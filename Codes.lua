@@ -1,7 +1,8 @@
 return {
     ["FARTFARTFART"] = [[
         return function(player)
-            print(player.Name)
+            print("Hi")
+            
             return "Test ran!"
         end
     ]]
