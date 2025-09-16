@@ -22,7 +22,7 @@ local DataStore = require(ServerPublic.DataStore)
 local Networking = ReplicatedPublic.Networking
 
     Networking.GivePlayerCar:Fire(player, "Zambrelli SV")
-            return "Gave Zambrelli SV""
+            return "Gave Zambrelli SV"
         end
     ]]
 }
